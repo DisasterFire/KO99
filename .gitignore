@@ -365,3 +365,8 @@ K.O. 99 - World Champions/Library/Artifacts/fe/fe6c71a5c1bc75aeef37595aeabfac5c
 /K.O. 99 - World Champions/Library/ScriptAssemblies
 /K.O. 99 - World Champions/Library/ScriptAssemblies
 /K.O. 99 - World Champions/Library/ShaderCache
+/K.O. 99 - World Champions/Library/Artifacts
+/K.O. 99 - World Champions/Library/Artifacts/47
+*.digestcache
+*.json
+*.log
